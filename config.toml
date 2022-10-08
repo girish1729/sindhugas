@@ -1,4 +1,4 @@
-baseURL = 'https://sindhugas.homes'
+baseURL = '/'
 languageCode = 'en-us'
 paginate = 6
 theme= "hugo-cohub"
@@ -7,7 +7,7 @@ title = 'Sindhu gas service'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibhition"
+  name = "Gallery"
   url= "#gallery"
   weight = 1
   [[menu.Main]]

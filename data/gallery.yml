@@ -1,11 +1,9 @@
 ---
-title : "Take a look at Our Exibhition"
-enable: true
+title: "Take a look at our shop"
 subtitle: >
         We are the best repair shop in VM Chathram on main road.
-
         We have served close to a million customers till date.
-galleryImage: 
+galleryImage:
  - image: "images/gallery/ravi-gas-repair-1.webp"
  - image: "images/gallery/ravi-gas-repair-2.webp"
  - image: "images/gallery/ravi-gas-repair-3.webp"
